@@ -1,0 +1,12 @@
+PROFILE
+Id = <<$ID>>
+Username = <<$USERNAME>>
+Admin = <<$ADMIN>>
+
+PLAN
+Plan name = <<$PLAN>>
+Maximum attack time = <<$MAXTIME>>
+Concurrents = <<$CONCS>>
+Premium = <<$PREMIUM>>
+Expired = <<$EXPIRED>>
+Admin = <<$ADMIN>>
