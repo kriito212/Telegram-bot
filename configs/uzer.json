@@ -1,0 +1,16 @@
+{
+  "Name":"test-stresser",
+  "CryptoPayToken":"xxxxxx:XXXXXXXXXXXXXXXXXX",
+  "TelegramBotToken": "7470393098:AAH0eJYNFF4yrE6HBLiwZLEXvGQIAlPnoro",
+  "AdminId":6361969853,
+  "MaximumRunning":10,
+  "Attacks": true,
+  "Running":0,
+  "Key": "free",
+  "BlackList":[
+	".ru",
+	".gov",
+	".edu",
+	"dstat.cc"
+  ]
+}

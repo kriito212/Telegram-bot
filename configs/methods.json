@@ -1,0 +1,28 @@
+[
+
+  {
+    "Command":"/udp",
+    "MaxTime":900,
+    "MaxConc":10,
+    "Running":0,
+    "Premium":false,
+    "Layer":4,
+    "Apis":[
+      "https://www.google.com/api?key=yesthiskey&target=<<$TARGET>>&port=<<$PORT>>&dtime=<<$TIME>>&method=UDP-FUCK",
+      "http://google.com/api?key=yesthiskey&target=<<$TARGET>>&port=<<$PORT>>&dtime=<<$TIME>>&method=UDP"
+    ]
+  },
+  {
+    "Command":"/http",
+    "MaxTime":120,
+    "MaxConc":2,
+    "Running":0,
+    "Premium":true,
+    "Layer":7,
+    "Apis":[
+      "https://www.google.com/api?key=yesthiskey&target=<<$TARGET>>&port=<<$PORT>>&dtime=<<$TIME>>&method=HTTP",
+      "http://google.com/api?key=yesthiskey&target=<<$TARGET>>&port=<<$PORT>>&dtime=<<$TIME>>&method=HTTPS"
+    ]
+  }
+
+]

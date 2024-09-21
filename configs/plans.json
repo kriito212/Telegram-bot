@@ -1,0 +1,18 @@
+[
+  {
+    "Name":"Free",
+    "PriceUSD":0,
+    "Concurrents":0,
+    "MaxTime":0,
+    "Premium":false,
+    "Expired":999999
+  },
+  {
+    "Name":"Start",
+    "PriceUSD":10,
+    "Concurrents":1,
+    "MaxTime":60,
+    "Premium":true,
+    "Expired":30
+  }
+]
